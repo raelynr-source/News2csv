@@ -14,18 +14,18 @@ If [Git](https://git-scm.com/downloads) is installed, open Terminal (macOS or
 Linux) or PowerShell (Windows), then run:
 
 ```sh
-git clone https://github.com/raelynr-source/duckduckgo-scraper.git
-cd duckduckgo-scraper
+git clone https://github.com/raelynr-source/News2csv/.git
+cd News2csv-main
 ```
 
-`git clone` downloads the project. `cd duckduckgo-scraper` moves your terminal
+`git clone` downloads the project. `cd News2csv-main` moves your terminal
 into the downloaded project folder, where you should run the rest of the
 commands in this guide.
 
 ### Option 2: Download a ZIP
 
 1. Open the
-   [repository on GitHub](https://github.com/raelynr-source/duckduckgo-scraper).
+   [repository on GitHub](https://github.com/raelynr-source/News2csv).
 2. Select the green **Code** button, then select **Download ZIP**.
 3. Extract the downloaded ZIP file.
 4. Open Terminal or PowerShell and move into the extracted folder. For example,
@@ -34,13 +34,13 @@ commands in this guide.
 macOS or Linux:
 
 ```sh
-cd ~/Downloads/duckduckgo-scraper-main
+cd ~/Downloads/News2csv-main
 ```
 
 Windows PowerShell:
 
 ```powershell
-cd ~\Downloads\duckduckgo-scraper-main
+cd ~\Downloads\News2csv-main
 ```
 
 If you extracted it somewhere else, use that folder's path instead.
